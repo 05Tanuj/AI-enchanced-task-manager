@@ -4,36 +4,12 @@ This is a Task Management Application built with a MERN stack. The front end is 
 
 ---
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/task-management/count.svg" />
-  </a>
-</p>
 
 ## 📜 Project Overview
 
 _A task management app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
 
-<p align="center">Register Page</p>
-<a style="" href="https://task-management-org.vercel.app/login">
-     
-![Macbook-Air-localhost (1)](https://github.com/user-attachments/assets/d05bd3e9-e349-469b-a4d2-d828e3e76414)
 
-</a>
-<p align="center">Dashboard Page</p>
-<a style="" href="https://task-management-org.vercel.app/">
-     
-![Macbook-Air-localhost](https://github.com/user-attachments/assets/5643d5a6-b8ad-4516-a3dd-d12b0d9793e3)
-
-</a>
-<p align="center">Public View</p>
-<a style="" href="https://task-management-org.vercel.app/task/67421bb3a90e252d2d4cb42e">
-     
-![Macbook-Air-localhost (2)](https://github.com/user-attachments/assets/cde4fcb3-80c4-410d-9763-50281c9b2233)
-
-</a>
 
 ## **Table of Contents**
 
@@ -221,3 +197,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for checking out my Task Management project! If you have any feedback or suggestions, I would love to hear from you.
 Feel free to contribute, report issues, or suggest improvements! 😊
+
