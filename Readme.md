@@ -5,7 +5,7 @@ This is a Task Management Application built with a MERN stack. The front end is 
 ---
 
 
-## 📜 Project Overview
+##  Descriptiom
 
 _A task management app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
 
@@ -197,4 +197,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for checking out my Task Management project! If you have any feedback or suggestions, I would love to hear from you.
 Feel free to contribute, report issues, or suggest improvements! 😊
+
 
